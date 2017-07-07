@@ -31,6 +31,7 @@
 * BFC、IFC
 * Web自适应
 * 字体图标fontawesome
+* CSS 优先级计算方式
 
 ## 布局
 * 圣杯布局
@@ -61,8 +62,14 @@
 * 使用前端框架带来的好处，相对于jquery
 * 十大经典排序算法
 * 单元测试
+* 事件捕获和冒泡
+* call和apply区别
+* AMD和CMD规范区别
 
-# Angular & React
+## 移动端
+移动端点击穿透，点击事件300ms延迟
+
+## Angular & React
 * Angular, React和Vue区别
 * Redux 使用原理
 * Angular 2
