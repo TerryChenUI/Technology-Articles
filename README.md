@@ -1,8 +1,19 @@
+# 前端相关
+* HTTP常用状态码
+* HTTP和HTTPS的区别
+* HTTP报文头分析
+* CSRF和XSS
+* SVG实现原理
+* chrome 开发工具技巧
+* 浏览器缓存机制，Cache-Control, Last-Modified或Etag
+* 页面渲染机制
+* History路由机制
+
 # HTML
 * HTML中<input>和<textarea>的区别
 [HTML中<input>和<textarea>的区别](http://www.cnblogs.com/abcd1234/p/4709486.html)
 * 用div模拟textarea的实现
-[div模拟textarea文本域轻松实现高度自适应]http://www.zhangxinxu.com/wordpress/2010/12/div-textarea-height-auto/
+[div模拟textarea文本域轻松实现高度自适应](http://www.zhangxinxu.com/wordpress/2010/12/div-textarea-height-auto/)
 [div模拟textarea的实现](http://www.jianshu.com/p/da2719fcfd72)
 
 ## HTML 5
@@ -11,6 +22,7 @@
 * HTML5 语义化标签
 [HTML5的新语义化的标签](http://www.cnblogs.com/zjf-1992/archive/2016/12/16/6182406.html)
 * HTML5本地存储(Local Storage)与Cookie, Session的区别
+* HTML5离线缓存Application Cache
 
 # CSS
 * 水平居中和垂直居中实现
@@ -18,6 +30,7 @@
 * 栅格的理解
 * BFC、IFC
 * Web自适应
+* 字体图标fontawesome
 
 ## 布局
 * 圣杯布局
@@ -25,9 +38,12 @@
 ## CSS3
 * 移动端适配REM
 * Flex布局
-* 动画实现
+* transition(过渡)和transform(旋转)
+* animation动画
 
 # Javascript
+* 函数原型链，函数作用域，函数指针this，构造函数new，闭包，单线程与异步队列setTimeout和setInterval
+* ES6 const和let 区别，块级作用域
 * 图片懒加载
 * 实现页面加载进度条
 * 事件委托
@@ -42,24 +58,14 @@
 * JS 模块化
 * requireJS的实现原理，与webpack的异同和优点
 * promise的实现原理，async和await的使用
-* 实现gulp的功能
 * 使用前端框架带来的好处，相对于jquery
 * 十大经典排序算法
-* 闭包实现
+* 单元测试
 
 # Angular & React
 * Angular, React和Vue区别
 * Redux 使用原理
 * Angular 2
-
-# 前端相关
-* HTTP常用状态码
-* HTTP和HTTPS的区别
-* HTTP报文头分析
-* CSRF和XSS
-* SVG实现原理
-* chrome 开发工具技巧
-
 
 # 构建工具
 * 常用的构建工具，grunt，gulp，webpack
@@ -71,7 +77,6 @@
 # 后端
 * nginx的使用
 * JWT实现原理
-
 
 # 性能优化
 * 输入一个URL，Enter之后发生了什么
