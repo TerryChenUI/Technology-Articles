@@ -3,9 +3,9 @@
 
 ## 2XX:成功
 这一类型的状态码，代表请求已成功被服务器接收、理解、并接受。
-| 状态码 | 描述 
-| 200 OK | 请求成功
-| 204 No Content | 服务器成功处理了请求，没有返回任何内容
+| 状态码 | 描述 |
+| 200 OK | 请求成功 | 
+| 204 No Content | 服务器成功处理了请求，没有返回任何内容 |
 
 ## 3xx:重定向
 这类状态码代表需要客户端采取进一步的操作才能完成请求。通常，这些状态码用来重定向，后续的请求地址（重定向目标）在本次响应的Location域中指明。
@@ -25,11 +25,11 @@
 
 ## 5xx服务器错误
 服务器在处理请求的过程中有错误或者异常状态发生。
-| 状态码 | 描述 
+| 状态码 | 描述 |
 | 500 Internal Server Error | 服务端内部错误(代码错误等)
 | 502 Bad Gateway | 服务器作为网关或者代理时，为了完成请求访问下一个服务器，但该服务器返回了非法的应答
 | 504 Gateway Timeout | 网关超时。
 
 ## 相关参考
-*[W3C:HTTP状态消息](http://www.w3school.com.cn/tags/html_ref_httpmessages.asp)
-*[维基百科:HTTP状态码](https://zh.wikipedia.org/wiki/HTTP%E7%8A%B6%E6%80%81%E7%A0%81)
+* [W3C:HTTP状态消息](http://www.w3school.com.cn/tags/html_ref_httpmessages.asp)
+* [维基百科:HTTP状态码](https://zh.wikipedia.org/wiki/HTTP%E7%8A%B6%E6%80%81%E7%A0%81)
