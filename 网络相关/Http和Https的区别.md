@@ -37,7 +37,7 @@ SSL采用一种叫做公开密钥加密(Public-key cryptography)的加密方式�
 现在一般采用SHA这种hash算法，目前还没有报道被破解，应该是安全的。
 
 ## 参考
-[Http和Https的区别](http://www.jianshu.com/p/37654eb66b58)
-[http和https有何区别](https://www.zhihu.com/question/19577317)
-[5分钟理解https工作流程](http://www.jianshu.com/p/a68ca86183d7)
-[HTTPS证书生成原理和部署细节](http://www.barretlee.com/blog/2015/10/05/how-to-build-a-https-server/)
+* [Http和Https的区别](http://www.jianshu.com/p/37654eb66b58)
+* [http和https有何区别](https://www.zhihu.com/question/19577317)
+* [5分钟理解https工作流程](http://www.jianshu.com/p/a68ca86183d7)
+* [HTTPS证书生成原理和部署细节](http://www.barretlee.com/blog/2015/10/05/how-to-build-a-https-server/)
