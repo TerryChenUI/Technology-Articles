@@ -26,7 +26,7 @@
 7. 服务器向客户端发出信息，指明后面的数据通讯将使用的步骤⑤中的主密码为对称密钥，同时通知客户端服务器端的握手过程结束。
 8. SSL 的握手部分结束，SSL 安全通道的数据通讯开始，客户和服务器开始使用相同的对称密钥进行数据通讯，同时进行通讯完整性的检验。
 
-![](http://cdn.wiz.cn/wp-content/uploads/2015/06/wiz_logo.png)
+![](https://github.com/TerryChenUI/Technology-Articles/blob/master/%E7%BD%91%E7%BB%9C%E7%9B%B8%E5%85%B3/images/Http%E5%92%8CHttps%E7%9A%84%E5%8C%BA%E5%88%AB.png)
 
 ## SSL是如何加密的
 SSL采用一种叫做公开密钥加密(Public-key cryptography)的加密方式。
