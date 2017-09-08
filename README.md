@@ -24,7 +24,7 @@
 
 # 开发工具
 * [git使用教程](https://github.com/TerryChenUI/Technology-Articles/blob/master/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/1.git%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.md) (2017-09-07)
-* [git工作流程管理]()
+* [git工作流程管理](https://github.com/TerryChenUI/Technology-Articles/edit/master/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/2.git%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%A8%8B%E7%AE%A1%E7%90%86.md) (2017-09-08)
 
 # 构建工具
 
